@@ -1,7 +1,7 @@
 # MSI-MAG-B560M-MORTAR-i7-10700
 ## 配置 Info
 
-macOS Big Sur 11.5.1 + OpenCore 0.7.1
+macOS Big Sur 11.6.3 + OpenCore 0.7.8
 
 | 组件 | 名称                                            |
 | ---- | ----------------------------------------------- |
